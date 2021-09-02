@@ -1,3 +1,16 @@
+#get this to github
+
+# In command prompt --????
+#	git config --global user.email "you@example.com"
+#	git config --global user.name "Your Name"
+
+#create gist
+#   right click on file tab --last option
+#   add code
+#   git tab on top
+#       commit first
+#       then push to github
+
 def generate(chars, rows, sep, half):
     #first test: generate('?', 3, 'newline', 'both') whats returned is tested against "?\n??\n???\n??\n?"
     #function should return ?\n??\n???\n??\n?               # both
