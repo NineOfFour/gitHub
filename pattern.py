@@ -1,4 +1,4 @@
-#set up in pycharm 
+#set up in pycharm
 #get this to github
 
 # In command prompt --????
@@ -9,7 +9,8 @@
 #   right click on file tab --last option
 #   add code
 #   git tab on top
-#       commit first
+#       commit first-- file name in tab blue when changes made
+#                       after commit goes to black
 #       then push to github
 
 def generate(chars, rows, sep, half):
