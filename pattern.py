@@ -1,3 +1,4 @@
+#set up in pycharm 
 #get this to github
 
 # In command prompt --????
